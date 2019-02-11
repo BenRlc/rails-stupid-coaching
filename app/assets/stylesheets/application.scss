@@ -27,11 +27,17 @@ form {
 */
 h1 {
   text-align: center;
+  color: blue;
 }
 p {
   text-align: center;
 }
 form {
+  display: flex;
   justify-content: center;
   align-items: baseline;
+}
+a {
+  display: flex;
+  justify-content: center;
 }
